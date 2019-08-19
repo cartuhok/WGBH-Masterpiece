@@ -1,0 +1,27 @@
+{
+    "franchise": {
+      "title": "Masterpiece",
+      "programs": [
+        {
+          "title": "Downton Abbey",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce consectetur quis velit et elementum. Pellentesque mi massa, placerat nec elit at, gravida sollicitudin augue. Vivamus semper nulla eu orci sollicitudin efficitur. Donec ac magna vel massa interdum feugiat sit amet maximus tellus.",
+          "weekly_eepisode": {
+            "title": "Mary and Lord Grantham Drink Tea",
+            "date": "Sunday, June 16, 2019",
+            "time": "9:00 pm",
+            "image": "#"
+          }
+        },
+        {
+          "title": "Les Miserables",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce consectetur quis velit et elementum. Pellentesque mi massa, placerat nec elit at, gravida sollicitudin augue. Vivamus semper nulla eu orci sollicitudin efficitur. Donec ac magna vel massa interdum feugiat sit amet maximus tellus.",
+          "weekly_eepisode": {
+            "title": "I Think Javert Is Going to Jump!",
+            "date": "Wednesday, June 19, 2019",
+            "time": "9:00 pm",
+            "image": "#"
+          }
+        }
+      ]
+    }
+  }    
