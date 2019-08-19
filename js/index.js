@@ -3,3 +3,5 @@ async function getMPData() {
     console.log(result);
     return result;
 }
+
+getMPData();
