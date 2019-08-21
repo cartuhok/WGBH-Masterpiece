@@ -9,7 +9,7 @@
             "title": "Mary and Lord Grantham Drink Tea",
             "date": "Sunday, June 16, 2019",
             "time": "9:00 pm",
-            "image": "#"
+            "image": "./assets/img-downton-s4e2.jpg"
           }
         },
         {
@@ -19,7 +19,7 @@
             "title": "I Think Javert Is Going to Jump!",
             "date": "Wednesday, June 19, 2019",
             "time": "9:00 pm",
-            "image": "#"
+            "image": "./assets/img-les-mis-ep1.jpg"
           }
         }
       ]
