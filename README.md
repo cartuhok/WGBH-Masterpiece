@@ -12,5 +12,6 @@ Used an async function to fetch the JSON file, then used a loop to render a temp
 Used flexbox for responsiveness and media queries to decrease padding and font size for tablet and mobile view. 
 
 # Potential Improvements 
--Add a nav hamburger on mobile view <br />
--Add a loading spinner that renders before the API call completes 
+-Add a nav hamburger on mobile view. <br />
+-Add a loading spinner that renders before the API call completes. <br />
+-Use Photoshop and an image optimizer to decrease image size / load time. 
